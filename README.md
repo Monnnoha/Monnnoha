@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mohan
 
-🎓 B.Tech CSE Student | 💻 Aspiring Software Engineer | 🌐 Web Developer
+🎓 B.Tech CSE Student 
 
 ## 🚀 About Me
 - 🔭 Currently working on: Java + JDBC Banking System Project  
