@@ -2,8 +2,7 @@
 
 🎓 B.Tech CSE Student 
 
-## 🚀 About Me
-- 🔭 Currently working on: Java + JDBC Banking System Project  
+## 🚀 About Me 
 - 🌱 Learning: Java and Web Development  
 - 👯 Looking to collaborate on: Open-source Java or Web projects  
 - 💬 Ask me about: Frontend development (HTML, CSS, JS) or Java basics  
