@@ -10,7 +10,7 @@
 
 ## 🛠️ Skills
 - Languages: Java, Python, C
-- Databases: MySQL,SQlite,MongoDB,No SQL
+- Databases: MySQL,SQlite,MongoDB,No SQL,h2
 - Tools: GitHub, IntelliJ IDEA, VS Code, Eclipse , Git, STS
 - Techstack: HTML, CSS.
 
