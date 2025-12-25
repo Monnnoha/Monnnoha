@@ -9,9 +9,9 @@
 - ⚡ Fun fact: I debug more than I code 😅
 
 ## 🛠️ Skills
-- Languages: Java, Python, C
-- Databases: MySQL,SQlite,MongoDB,No SQL,h2
-- Tools: GitHub, IntelliJ IDEA, VS Code, Eclipse , Git, STS
+- Languages: Java, C
+- Databases: MySQL,SQlite
+- Tools: IntelliJ IDEA, VS Code, Eclipse , STS, PostMan
 - Techstack: HTML, CSS.
 
 ---
