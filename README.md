@@ -41,7 +41,7 @@
 <!-- Stats -->
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Monnnoha&show_icons=true&theme=dark"/>
 </p>
 
 ---
@@ -49,13 +49,13 @@
 <!-- Social Icons -->
 <h2>🌐 Connect With Me</h2>
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/Mohan Chinthapalli">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:chinthapallimohan19@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Monnnoha">
     <img src="https://img.icons8.com/ios-glyphs/48/github.png"/>
   </a>
 </p>
