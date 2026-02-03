@@ -49,7 +49,7 @@
 <!-- Social Icons -->
 <h2>🌐 Connect With Me</h2>
 <p>
-  <a href="https://linkedin.com/in/Mohan chinthapalli">
+  <a href="https://linkedin.com/in/mohan-chinthapalli">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
   <a href="mailto:chinthapallimohan19@gmail.com">
