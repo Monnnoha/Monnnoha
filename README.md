@@ -41,7 +41,7 @@
 <!-- Stats -->
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monnnoha&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=monnnoha&show_icons=true&theme=dark&cache_seconds=86400"/>
 </p>
 
 ---
